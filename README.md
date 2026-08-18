@@ -5,9 +5,7 @@
 **A clean, modular, and interactive command-line calculator built with Java.**
 
 [![Java](https://img.shields.io/badge/Language-Java-orange.svg?style=for-the-badge&logo=openjdk)](https://www.java.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg?style=for-the-badge)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-it-works">How It Works</a> •
